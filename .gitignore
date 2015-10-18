@@ -1,0 +1,8 @@
+/target/
+*.wav
+*.mp3
+.classpath
+.project
+.settings
+.idea
+.DS_Store

@@ -40,7 +40,7 @@
 				  <archive>
 					<manifest>
 						<addClasspath>true</addClasspath>
-						<mainClass>com.mkyong.core.utils.App</mainClass>
+						<mainClass>com.yarg.robotpi.RobotPi</mainClass>
 						<classpathPrefix>dependency-jars</classpathPrefix>
 					</manifest>
 				  </archive>
